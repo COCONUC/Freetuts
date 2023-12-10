@@ -1,5 +1,9 @@
 # This is a Blogging Website
 
+Front End: [COCONUC](https://github.com/COCONUC)
+
+Back End & DB: [luxNG](https://github.com/luxNG)
+
 ### How to run on your machine:
   * Windows:
     * Recommended sofwares:
