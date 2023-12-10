@@ -13,7 +13,7 @@ Back End & DB: [luxNG](https://github.com/luxNG)
       * Spring tools
     * Configures:
       * Import data to your schema from this [self-contained file](dbFinal.sql). 
-      * Open [application.properties](src/main/resources/application.properties) located in "src/main/resources/" then change the followings accordingly to your settings:
+      * Open [application.properties](src/main/resources/application.properties) located in `src/main/resources/` then change the followings accordingly to your settings:
       
         1. The default MySQL Schema's name for this project is `freetutsproject` or can be changed in:
         <p align="center">
