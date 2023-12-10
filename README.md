@@ -12,7 +12,7 @@ How to run on your machine:
           Note: The default MySQL Schema's name is "" or can be changed in:
         ![image](https://github.com/COCONUC/Freetuts/assets/53396533/d97ae103-bd1f-4d77-ab23-56a205d48fcf)
           Insert your MySQL username and password here:
-        ![freetut](https://github.com/COCONUC/Freetuts/assets/53396533/f6ffc0f9-c0e9-41d6-9f7f-29536885e123)
+        ![image](https://github.com/COCONUC/Freetuts/assets/53396533/3096f93c-e416-4b06-9165-169634182f6b)
           Default port ID is 8084:
         ![image](https://github.com/COCONUC/Freetuts/assets/53396533/742c4855-2a50-4e7b-a2dd-32af542ebe41)
 
