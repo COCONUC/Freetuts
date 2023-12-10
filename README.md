@@ -8,10 +8,10 @@
       * Your favorite text edidtor or IDE
       * Spring tools
     * Configures:
+      * Import data to your schema from [this self-contained file](dbFinal.sql). 
+      * Open [application.properties](src/main/resources/application.properties) located in "src/main/resources/" then change the followings accordingly to your settings:
       
-      Open "application.properties" located in "src/main/resources/" then change the followings accordingly to your settings:
-      
-      * The default MySQL Schema's name is "freetutsproject" or can be changed in:
+      * The default MySQL Schema's name for this project is `freetutsproject` or can be changed in:
       <p align="center">
         <img src="https://github.com/COCONUC/Freetuts/assets/53396533/d97ae103-bd1f-4d77-ab23-56a205d48fcf" />
       </p>
